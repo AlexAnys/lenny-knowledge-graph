@@ -9,9 +9,9 @@
 
 ## 🔗 在线演示
 
-**[👉 点击访问知识图谱 → alexanys.github.io/lenny-knowledge-graph](https://alexanys.github.io/lenny-knowledge-graph)**
+**[👉 点击访问知识图谱 → https://lenny-knowledge-graph.web.app/](https://lenny-knowledge-graph.web.app/)**
 
-![Screenshot](docs/screenshot.png)
+
 
 ## 📖 项目背景
 
